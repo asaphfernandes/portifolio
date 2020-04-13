@@ -1,0 +1,47 @@
+const skins = [
+    { src: 'logos/outlook.png', href: 'mailto:contato@asaphfernandes.com.br' },
+    { src: 'logos/excel.png' },
+    { src: 'logos/linkedin.png', href: 'https://www.linkedin.com/in/asaph-fernandes-a6900645' },
+    { src: 'logos/instagram.png', href: 'https://www.instagram.com/asaphfernandes' },
+    { src: 'logos/twitter.png', href: 'https://twitter.com/asaphfernandes' },
+    { src: 'logos/github.png', href: 'https://github.com/asaphfernandes' },
+    { src: 'logos/medium.png' },
+    { src: 'logos/csharp.png' },
+    { src: 'logos/reactjs.png' },
+    { src: 'logos/typescript.png' },
+    { src: 'logos/js.png' },
+    { src: 'logos/jquery.png' },
+    { src: 'logos/bootstrap.png' },
+    { src: 'logos/net.png' },
+    { src: 'logos/aspnet.png' },
+    { src: 'logos/aspnet-core.png' },
+    { src: 'logos/azure.png' },
+    { src: 'logos/aws.png' },
+    { src: 'logos/azure-devops.png' },
+    { src: 'logos/jenkins.png' },
+    { src: 'logos/docker.png' },
+    { src: 'logos/kubernetes.png' },
+    { src: 'logos/nginx.png' },
+    { src: 'logos/helm.png' },
+    { src: 'logos/apache.png' },
+    { src: 'logos/laravel.png' },
+    { src: 'logos/php.png' },
+    { src: 'logos/wordpress.png' },
+    { src: 'logos/material-ui.png' },
+    { src: 'logos/angular.png' },
+    { src: 'logos/nodejs.png' },
+    { src: 'logos/npm.png' },
+    { src: 'logos/yarn.png' },
+    { src: 'logos/vs-code.png' },
+    { src: 'logos/visual-studio.png' },
+    { src: 'logos/sql.png' },
+    { src: 'logos/postgresql.png' },
+    { src: 'logos/oracle.png' },
+    { src: 'logos/mongo.png' },
+];
+
+/*
+
+skins.txt
+sqlserver.png
+*/

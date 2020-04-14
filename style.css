@@ -10,14 +10,8 @@ body,html {
    padding: 0;
  }
 
- .img-100{
-   position: absolute;
-   width: 2rem;
-   height: 2rem;
- }
-
 .name {
-    background: red;
+    /* background: red; */
     width: 360px;
     margin-left: calc(50vw - 180px);
 }

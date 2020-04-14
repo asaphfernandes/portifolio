@@ -5,10 +5,10 @@ const skins = [
     { src: 'logos/instagram.png', href: 'https://www.instagram.com/asaphfernandes' },
     { src: 'logos/twitter.png', href: 'https://twitter.com/asaphfernandes' },
     { src: 'logos/github.png', href: 'https://github.com/asaphfernandes' },
-    { src: 'logos/medium.png' },
-    { src: 'logos/csharp.png' },
-    { src: 'logos/reactjs.png' },
-    { src: 'logos/typescript.png' },
+    { src: 'logos/medium.png', d: true },
+    { src: 'logos/csharp.png', d: true },
+    { src: 'logos/reactjs.png', d: true },
+    { src: 'logos/typescript.png', d: true },
     { src: 'logos/js.png' },
     { src: 'logos/jquery.png' },
     { src: 'logos/bootstrap.png' },
@@ -39,9 +39,3 @@ const skins = [
     { src: 'logos/oracle.png' },
     { src: 'logos/mongo.png' },
 ];
-
-/*
-
-skins.txt
-sqlserver.png
-*/
